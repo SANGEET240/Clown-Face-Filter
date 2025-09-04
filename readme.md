@@ -45,7 +45,7 @@ Here’s what you’ll look like:
 │── README.md              # Project description  
 │  
 ├── 📁 Demo_Face              # Store images, gifs, or extra stuff  
-│   └── MyFaceDemo.png           # Example demo screenshot (used in README)  
+│     └── MyFaceDemo.png           # Example demo screenshot (used in README)  
 
 ## ⚠️ Disclaimer
 This project may:
