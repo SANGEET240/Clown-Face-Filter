@@ -3,14 +3,15 @@ Turn any boring face into a circus-level masterpiece — in real-time!
 This project uses OpenCV + Mediapipe Face Mesh to track your facial landmarks and slap on a clown nose, funny lips, and cartoonish makeup 🎨.
 
 ## 🎪 Features
-🟥 Clown Nose – Big red circle right on target (no honking sound yet, sorry).
-👄 Clown Lips – Perfectly over-exaggerated lipstick… way better than real life.
-👀 Crazy Eyes – Adds silly shapes around your eyes to give you that “just joined the circus” look.
-⚡ Real-time filter – Works live with your webcam.
-🤖 Powered by Python + Mediapipe + OpenCV.
+🟥 Clown Nose – Big red circle right on target (no honking sound yet, sorry).  
+👄 Clown Lips – Perfectly over-exaggerated lipstick… way better than real life.  
+👀 Crazy Eyes – Adds silly shapes around your eyes to give you that “just joined the circus” look.  
+⚡ Real-time filter – Works live with your webcam.  
+🤖 Powered by Python + Mediapipe + OpenCV.  
 
 🛠 Installation
 ## Clone the repo
+    
 git clone https://github.com/SANGEET240/Clown-Face-Filter-.git
 
 ## Move into the folder
