@@ -34,7 +34,7 @@ python clown_filter.py
 Press **ESC** to exit.
 
 ## 😂 Demo
-Here’s what you’ll look like:
+Here’s what you’ll look like:  
 ![Clown Demo](Demo/MyFaceDemo.png)
 
 ## 📂 Project Structure
