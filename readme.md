@@ -35,7 +35,7 @@ Press **ESC** to exit.
 
 ## 😂 Demo
 Here’s what you’ll look like:  
-![Clown Demo](Demo Face/MyFaceDemo.png)
+![Clown Demo](Demo_Face/MyFaceDemo.png)
 
 ## 📂 Project Structure
 📁 clown-face-filter  
