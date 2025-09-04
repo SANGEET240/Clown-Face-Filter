@@ -10,7 +10,7 @@ This project uses OpenCV + Mediapipe Face Mesh to track your facial landmarks an
 🤖 Powered by Python + Mediapipe + OpenCV.  
 
 ## 🛠 Installation
-Clone the repo ```
+Clone the repo ```  
 git clone https://github.com/SANGEET240/Clown-Face-Filter-.git
 
 ## Move into the folder
