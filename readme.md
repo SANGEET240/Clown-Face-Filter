@@ -1,8 +1,8 @@
-🤡 Real-Time Clown Face Filter
+# 🤡 Real-Time Clown Face Filter
 Turn any boring face into a circus-level masterpiece — in real-time!
 This project uses OpenCV + Mediapipe Face Mesh to track your facial landmarks and slap on a clown nose, funny lips, and cartoonish makeup 🎨.
 
-🎪 Features
+## 🎪 Features
 🟥 Clown Nose – Big red circle right on target (no honking sound yet, sorry).
 👄 Clown Lips – Perfectly over-exaggerated lipstick… way better than real life.
 👀 Crazy Eyes – Adds silly shapes around your eyes to give you that “just joined the circus” look.
@@ -10,43 +10,42 @@ This project uses OpenCV + Mediapipe Face Mesh to track your facial landmarks an
 🤖 Powered by Python + Mediapipe + OpenCV.
 
 🛠 Installation
-# Clone the repo
+## Clone the repo
 git clone https://github.com/SANGEET240/Clown-Face-Filter-.git
 
-# Move into the folder
+## Move into the folder
 cd clown-face-filter
 
-# Create virtual environment (optional but recommended)
+## Create virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-🚀 Usage
+## 🚀 Usage
 Run the filter:
 python clown_filter.py
 Press ESC to exit.
 
-😂 Demo
-
+## 😂 Demo
 Here’s what you’ll look like:
 (Insert screenshot or GIF of your clown face here 🤡)
 
-📂 Project Structure
+## 📂 Project Structure
 📁 clown-face-filter
 │── clown_filter.py        # Main clown filter code
 │── FaceMeshModule.py      # Face mesh detector module
 │── requirements.txt       # Python dependencies
 │── README.md              # This file (duh)
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project may:
 Cause uncontrollable laughter.
 Get you kicked out of serious Zoom meetings.
 Make you reconsider your career choices.
 Use responsibly.
 
-🌟 Contribute
+## 🌟 Contribute
 Pull requests welcome! Add more filters (pirate, zombie, anime eyes 👀✨) and let’s make this the Snapchat of Python nerds.
