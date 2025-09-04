@@ -16,15 +16,17 @@ git clone https://github.com/SANGEET240/Clown-Face-Filter-.git
 ```
 
 ## Move into the folder
+```
 cd clown-face-filter
+```
 
 ## Create virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
+```python -m venv venv```
+```source venv/bin/activate```   # Linux/Mac
+```venv\Scripts\activate```      # Windows
 
 ## Install dependencies
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## 🚀 Usage
 Run the filter:
@@ -36,11 +38,11 @@ Here’s what you’ll look like:
 (Insert screenshot or GIF of your clown face here 🤡)
 
 ## 📂 Project Structure
-📁 clown-face-filter
-│── clown_filter.py        # Main clown filter code
-│── FaceMeshModule.py      # Face mesh detector module
-│── requirements.txt       # Python dependencies
-│── README.md              # This file (duh)
+📁 clown-face-filter  
+│── clown_filter.py        # Main clown filter code  
+│── FaceMeshModule.py      # Face mesh detector module  
+│── requirements.txt       # Python dependencies  
+│── README.md              # This file (duh)  
 
 ## ⚠️ Disclaimer
 This project may:
