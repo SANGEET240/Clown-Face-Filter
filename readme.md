@@ -43,7 +43,7 @@ Here’s what you’ll look like:
 │── FaceMeshModule.py      # Face mesh detector module  
 │── requirements.txt       # Python dependencies  
 │── README.md              # Project description  
-│
+│  
 ├── 📁 Demo_Face              # Store images, gifs, or extra stuff  
 │   └── MyFaceDemo.png           # Example demo screenshot (used in README)  
 
