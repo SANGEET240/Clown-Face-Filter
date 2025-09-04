@@ -31,7 +31,7 @@ cd clown-face-filter
 ## 🚀 Usage
 Run the filter:
 python clown_filter.py  
-Press ESC to exit.
+Press **ESC** to exit.
 
 ## 😂 Demo
 Here’s what you’ll look like:
