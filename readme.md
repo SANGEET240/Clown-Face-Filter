@@ -38,11 +38,14 @@ Here’s what you’ll look like:
 ![Clown Demo](Demo_Face/MyFaceDemo.png)
 
 ## 📂 Project Structure
-📁 clown-face-filter  
+📁 clown-face-filter
 │── clown_filter.py        # Main clown filter code  
 │── FaceMeshModule.py      # Face mesh detector module  
 │── requirements.txt       # Python dependencies  
-│── README.md              # This file (duh)  
+│── README.md              # Project description  
+│
+├── 📁 Demo_Face              # Store images, gifs, or extra stuff  
+│   └── MyFaceDemo.png           # Example demo screenshot (used in README)  
 
 ## ⚠️ Disclaimer
 This project may:
